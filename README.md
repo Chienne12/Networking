@@ -1,10 +1,11 @@
 # Networking## README – How to use the Cisco Packet Tracer files (quick tests and troubleshooting)
 
-[Place this file in: `C:\Users\LaptopK1\Documents\Document Study\NetWorking\AssignMent\Part 2` next to the `.pkt` files]
+
 
 ## 1) Environment
 - Cisco Packet Tracer 8.x or later
 - Open the `.pkt` files directly: `Cisco_Config_Optimized.pkt`, `Cisco_Config_Initial.pkt`, `VTP_VLAN_Packet_Tracer_Config.pkt`
+link : https://prelogin-authoring.netacad.com/courses/packet-tracer
 
 ## 2) Quick start
 1. Open a `.pkt` file (recommended: `Cisco_Config_Optimized.pkt`).
